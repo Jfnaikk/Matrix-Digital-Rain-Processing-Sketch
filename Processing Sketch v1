@@ -7,6 +7,7 @@
 //01 is a binary code represents text, computer processor instructions, or any other data using a two-symbol system.
 //For this sketch to work you need to enable the video library inside processing by going to:
 //Steps: Sketch, Import Library, Manage Libraries, search video and enable video library for processing 4
+//Copy this code in processing sketch to work on it!
   
 import processing.video.*; //Enabling Library for video input
 
