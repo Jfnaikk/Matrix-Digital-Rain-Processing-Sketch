@@ -7,7 +7,9 @@ Professor: Fred Wolflink
 University: Massachusetts College of Art & Design
 Department: DMI Dynamic Media Institute
 
-Description This Processing sketch creates a visual effect similar to
+Description: 
+
+This Processing sketch creates a visual effect similar to
 the iconic "Matrix" code rain. The "Matrix Effect" captures live video
 from a webcam, processes it into blocks, and displays the binary numbers
 in a monospaced font, where the appearance of "1" or "0" is based on the
@@ -17,7 +19,7 @@ each block, and displaying either "1" or "0" in a green font to mimic
 the famous green code look. To run this sketch, ensure you have the
 Video Library installed in Processing.
 
-Setup Instructions
+Setup Instructions:
 
 1. Install Processing 4. Download it from Processing.org.
 2. Enable the Video Library
@@ -26,7 +28,7 @@ and
     click "Install" to add the Video Library to your Processing
     environment.
 
-Customization Options
+Customization Options:
 
 1. Change Block Size: Adjust the size of each block in the loops.
     Smaller values create a denser effect
